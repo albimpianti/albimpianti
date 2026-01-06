@@ -65,7 +65,7 @@
             margin-top: 40px;
         }
     </style>
-</head> <link rel="stylesheet" href="style.css">
+<head> <link rel="stylesheet" href="style.css">
 <body>   {
   background-image: url("sfondo.jpg"); 
   background-size: cover;              
