@@ -1,7 +1,13 @@
 
 <html lang="it">
 <head><link rel="stylesheet" href="sfondo.jpeg">
-    body 
+     body {
+  background-image: url("sfondo.jpg"); /* metti qui il nome del file o link assoluto */
+  background-size: cover;              /* copre tutta la pagina */
+  background-repeat: no-repeat;        /* evita che si ripeta */
+  background-position: center;         /* centrata nella pagina */
+  background-attachment: fixed;        /* rimane ferma mentre scrolli */
+}
 }
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
