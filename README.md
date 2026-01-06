@@ -65,13 +65,8 @@
             margin-top: 40px;
         }
     <style>
-<head> <link rel="stylesheet" href="style.css">
-           body   {
-  background-image: url("sfondo.jpg"); 
-  background-size: cover;              
-  background-repeat: no-repeat;        
-  background-position: center;         
-  background-attachment: fixed; 
+<head> 
+
 
 <header>
     <h1>ALBIMPIANTI DI SHESHI ALBI</h1>
