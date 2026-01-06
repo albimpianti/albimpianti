@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="it">
 <head>
     <meta charset="UTF-8">
@@ -117,8 +117,8 @@
 
 <section class="contatti">
     <h2>📞 Contatti</h2>
-    <p><strong>Telefono:</strong> [3290405918]</p>
-    <p><strong>Email:</strong> [albimpiantielettrici@gmail.com]</p>
+    <p><strong>Telefono:</strong>  3290405918 </p>
+    <p><strong>Email:</strong> albimpiantielettrici@gmail.com </p>
     <p><strong>Zona operativa:</strong> Milano – Monza</p>
 </section>
 
