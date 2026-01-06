@@ -1,9 +1,4 @@
-body {
-  background-image: url("sfondo.jpg"); /* oppure il link assoluto */
-  background-size: cover;             /* copre tutta la pagina */
-  background-repeat: no-repeat;       /* evita ripetizioni */
-  background-attachment: fixed;       /* lo sfondo resta fisso durante lo scroll */
-  background-position: center;        /* centrato */
+
 <html lang="it">
 <head>
     <meta charset="UTF-8">
