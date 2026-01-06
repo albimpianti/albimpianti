@@ -1,13 +1,6 @@
 
 <html lang="it">
-<head><link rel="stylesheet" href="sfondo.jpeg">
-    body {
-  background-image: url("sfondo.jpg"); 
-  background-size: cover;              
-  background-repeat: no-repeat;        
-  background-position: center;         
-  background-attachment: fixed;        
-}
+       
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Albimpianti di Sheshi Albi – Impianti Elettrici Milano & Monza</title>
@@ -72,8 +65,13 @@
             margin-top: 40px;
         }
     </style>
-</head>
-<body>
+</head> <link rel="stylesheet" href="style.css">
+<body>   {
+  background-image: url("sfondo.jpg"); 
+  background-size: cover;              
+  background-repeat: no-repeat;        
+  background-position: center;         
+  background-attachment: fixed; 
 
 <header>
     <h1>ALBIMPIANTI DI SHESHI ALBI</h1>
