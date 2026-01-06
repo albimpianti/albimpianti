@@ -64,9 +64,9 @@
             color: white;
             margin-top: 40px;
         }
-    </style>
+    <style>
 <head> <link rel="stylesheet" href="style.css">
-<body>   {
+           body   {
   background-image: url("sfondo.jpg"); 
   background-size: cover;              
   background-repeat: no-repeat;        
