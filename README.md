@@ -1,8 +1,12 @@
 
 <html lang="it">
 <head><link rel="stylesheet" href="sfondo.jpeg">
-    
-}
+    body {
+  background-image: url("sfondo.jpg"); 
+  background-size: cover;              
+  background-repeat: no-repeat;        
+  background-position: center;         
+  background-attachment: fixed;        
 }
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
