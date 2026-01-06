@@ -1,20 +1,37 @@
-
+<!DOCTYPE html>
 <html lang="it">
-       
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Albimpianti di Sheshi Albi – Impianti Elettrici Milano & Monza</title>
+
     <style>
-        
+        /* ===== SFONDO A SCHERMO INTERO ===== */
+        body {
             margin: 0;
             font-family: Arial, Helvetica, sans-serif;
-            background: #f7f7f7;
+            background-image: url("sfondo.jpeg"); /* immagine di sfondo */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
             color: #333;
             line-height: 1.6;
         }
 
+        /* Sfumatura leggera via overlay */
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.6); /* leggera schiaritura */
+            z-index: -1;
+        }
+
         header {
-            background: #0d47a1;
+            background: rgba(13, 71, 161, 0.85);
             color: white;
             padding: 40px 20px;
             text-align: center;
@@ -34,6 +51,9 @@
             padding: 40px 20px;
             max-width: 900px;
             margin: auto;
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 8px;
+            margin-top: 20px;
         }
 
         h2 {
@@ -60,13 +80,13 @@
         footer {
             text-align: center;
             padding: 20px;
-            background: #0d47a1;
+            background: rgba(13, 71, 161, 0.85);
             color: white;
             margin-top: 40px;
         }
-    <style>
-<head> 
-
+    </style>
+</head>
+<body>
 
 <header>
     <h1>ALBIMPIANTI DI SHESHI ALBI</h1>
